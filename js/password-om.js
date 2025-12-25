@@ -4,7 +4,7 @@
  * password-om.js
  *
  * Plain vanilla javascript for the "Öppet Moln" ("Open Cloud") random password
- * generator site (password.oppetmoln.se). For the sake of having a name, it
+ * generator site (password.wlt.lol). For the sake of having a name, it
  * shall be POMjs. There's really nothing fancy going on here :-)
  *
  * Copyright 2022, 2023 Joaquim Homrighausen; All rights reserved.
@@ -367,6 +367,11 @@ function POM_initialSetup() {
             POM_cfgTitle = 'Generator Naključnih Gesel';
             POM_cfgSlogan = 'Brez piškotkov, <span style="display:inline-block">nič sledilnikov.</span><br/>Samo geslo.';
             POM_cfgGenPasswordHint = 'Generiraj geslo';
+            break;
+        case 'zh':
+            POM_cfgTitle = '随机密码生成器';
+            POM_cfgSlogan = '没有cookies，<span style="display:inline-block">没有追踪器。</span><br/>只有密码';
+            POM_cfgGenPasswordHint = 'Generate password';
             break;
         default:
             POM_cfgTitle = 'Random Password Generator';

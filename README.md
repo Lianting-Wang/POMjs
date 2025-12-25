@@ -97,7 +97,7 @@ Copyright 2022, 2023 Joaquim Homrighausen.
 
 You can see POMjs in action, and more or less unmodified, on the following links:
 
-* Öppet Moln ("Open Cloud"); [password.oppetmoln.se](https://password.oppetmoln.se)
+* Öppet Moln ("Open Cloud"); [password.wlt.lol](https://password.wlt.lol)
 * WebbPlatsen i Sverige AB; [password.webbplatsen.se](https://password.webbplatsen.se)
 
 ### External references
